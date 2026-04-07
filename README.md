@@ -113,6 +113,8 @@ A more targeted approach is required:
 
 * Focus on low discount levels (5–10%)
 * Apply discounts selectively rather than across the entire portfolio
+* Use discounts strategically for **seasonal high-volume periods** (e.g., Black Friday)  
+* Apply discounts for **stock clearance**, rather than on best-selling products  
 
 ---
 
