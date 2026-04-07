@@ -32,13 +32,24 @@ The analysis aimed to answer two core questions:
 
 ---
 
+## 📁 Project Structure
+
+discount-strategy-analysis/
+├── notebooks/       # analysis notebooks
+├── images/          # visualizations used in the project
+├── presentation/    # presentation material (Prezi link)
+├── data/            # dataset or sample data
+├── README.md        # project documentation
+├── requirements.txt # dependencies
+
+---
+
 ## 📊 My Contribution
 
 I focused on evaluating the **impact of discounting on revenue and performance**, including:
 
 * Discount distribution analysis
 * Revenue loss by discount bucket
-* Average revenue per order by discount level
 * Scatter analysis (discount vs revenue)
 * Identification of the optimal discount range
 * Strategic assessment of discount usage
@@ -50,24 +61,34 @@ I focused on evaluating the **impact of discounting on revenue and performance**
 The broader project also included additional analyses from team members:
 
 * Revenue contribution by category
-* Category × brand analysis (where revenue is generated)
+* Category × brand analysis
 * Discount effectiveness by category
 * Total revenue of top 10 brands
 * Correlation between revenue and discounts
 
 ---
 
-## 📁 Project Structure
+## 📊 Key Visual Insights
 
-```text
-discount-strategy-analysis/
-├── notebooks/
-├── images/
-├── presentation/
-├── data/
-├── README.md
-├── requirements.txt
-```
+### Discount vs Revenue
+
+![Discount vs Revenue](images/discount_vs_revenue_scatter.png)
+
+### Average Discount Level
+
+![Average Discount Level](images/avg_discount_level.png)
+
+### Revenue Loss by Discount Bucket
+
+![Revenue Loss](images/revenue_loss_by_discount_bucket.png)
+
+### Optimal Discount Level
+
+![Optimal Discount](images/optimal_discount_level.png)
+
+### Correlation between Revenue and Discounts
+
+![Correlation](images/correlation_revenue_discounts.png)
 
 ---
 
@@ -93,35 +114,24 @@ A more targeted approach is required:
 
 ---
 
-## 📈 Visual Insights
-
-Key visual patterns observed:
-
-* Revenue loss increases with higher discount levels
-* Revenue per order declines as discounts increase
-* High-value orders are concentrated in low to moderate discount ranges
-
----
-
 ## 📎 Presentation
 
-Prezi presentation:
 👉 https://prezi.com/view/vvTvKs9qmEhNW8DYYX1e/?referral_token=Ki3dK4lnB3FN
 
 ---
 
-## ⚠️ Notes
+## ⚠️ Data Quality & Future Improvements
 
-* Analysis is based on completed orders only
-* Some payment-related fields may include shipping
-* Data was cleaned to remove invalid values and ensure consistency
+* Incorporate profit / margin data for deeper insights
+* Improve data consistency and tracking of discount application
+* Implement **A/B testing** to evaluate the true impact of different discount levels
+* Enhance data collection processes to ensure cleaner and more reliable datasets
 
 ---
 
-## 🚀 Future Improvements
+## 👩‍💻 About Me
 
-* Incorporate profit / margin data
-* Add customer segmentation
-* Analyze seasonal discount strategies
-* Build a targeted discount recommendation model
+Aspiring Data Scientist with a strong background in sales and process optimization.
+Focused on translating data into actionable business insights and improving decision-making through data-driven approaches.
 
+---
