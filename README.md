@@ -34,6 +34,7 @@ The analysis aimed to answer two core questions:
 
 ## 📁 Project Structure
 
+```text
 discount-strategy-analysis/
 ├── notebooks/       # analysis notebooks
 ├── images/          # visualizations used in the project
@@ -41,6 +42,7 @@ discount-strategy-analysis/
 ├── data/            # dataset or sample data
 ├── README.md        # project documentation
 ├── requirements.txt # dependencies
+```
 
 ---
 
