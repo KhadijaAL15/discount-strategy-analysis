@@ -1,7 +1,7 @@
 
 # Optimizing Discount Strategy: A Data-Driven Revenue Analysis
 
-## 📌 Project Overview
+# 📌 Project Overview
 
 This project analyzes the impact of discounting on revenue performance using transactional data from a bootcamp case study.
 
@@ -20,7 +20,7 @@ The analysis aimed to answer two core questions:
 
 ---
 
-###  🔍 Key Findings
+### 🔍 Key Findings
 
 * Discounts are heavily overused across the portfolio
 * Higher discounts lead to significant revenue loss
@@ -90,6 +90,11 @@ discount-strategy-analysis/
 
 ---
 
+## 📗 Notebooks
+
+*[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1mh0ge5iwumaA_BpDdo9OcEskO26PzQdw)
+**[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1SVtSF9SM7h2zd_JmA5qMnz6I92HH7wYC)
+
 ## 🛠️ Tools & Technologies
 
 * Python
@@ -101,7 +106,7 @@ discount-strategy-analysis/
 ---
 
 
-📊 Project Contribution
+## 📊 Project Contribution
 
 This project was developed as a collaborative team effort, combining different analytical perspectives to evaluate business performance.
 
@@ -113,7 +118,6 @@ My primary contribution focused on the visualizations and analyses presented in 
 * Development of data visualizations to support business insights
 
 ---
-
 
 ## 📎 Presentation
 
