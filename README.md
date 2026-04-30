@@ -1,5 +1,3 @@
-# discount-strategy-analysis
-Data-driven analysis of discount strategy and revenue efficiency
 
 # Optimizing Discount Strategy: A Data-Driven Revenue Analysis
 
@@ -13,7 +11,7 @@ This work was developed as part of a **team project**, where I focused on analyz
 
 ---
 
-## 🎯 Business Objective
+### 🎯 Business Objective
 
 The analysis aimed to answer two core questions:
 
@@ -22,55 +20,18 @@ The analysis aimed to answer two core questions:
 
 ---
 
-## 🛠️ Tools & Technologies
+###  🔍 Key Findings
 
-* Python
-* Pandas
-* Matplotlib
-* Seaborn
-* Jupyter Notebook / Google Colab
-
----
-
-## 📁 Project Structure
-
-```text
-discount-strategy-analysis/
-├── notebooks/       # analysis notebooks
-├── images/          # visualizations used in the project
-├── presentation/    # presentation material (Prezi link)
-├── data/            # dataset or sample data
-├── README.md        # project documentation
-├── requirements.txt # dependencies
-```
+* Discounts are heavily overused across the portfolio
+* Higher discounts lead to significant revenue loss
+* Customer demand does not increase with higher discounts
+* The optimal discount range is **5–10%**
+* The current average discount (~22%) is significantly above optimal
+* Discounts are applied broadly rather than strategically
 
 ---
 
-## 📊 My Contribution
-
-I focused on evaluating the **impact of discounting on revenue and performance**, including:
-
-* Discount distribution analysis
-* Revenue loss by discount bucket
-* Scatter analysis (discount vs revenue)
-* Identification of the optimal discount range
-* Strategic assessment of discount usage
-
----
-
-## 🤝 Team Contribution
-
-The broader project also included additional analyses from team members:
-
-* Revenue contribution by category
-* Category × brand analysis
-* Discount effectiveness by category
-* Total revenue of top 10 brands
-* Correlation between revenue and discounts
-
----
-
-## 📊 Key Visual Insights
+### 📊 Key Visual Insights
 
 ### Discount vs Revenue
 
@@ -94,18 +55,7 @@ The broader project also included additional analyses from team members:
 
 ---
 
-## 🔍 Key Findings
-
-* Discounts are heavily overused across the portfolio
-* Higher discounts lead to significant revenue loss
-* Customer demand does not increase with higher discounts
-* The optimal discount range is **5–10%**
-* The current average discount (~22%) is significantly above optimal
-* Discounts are applied broadly rather than strategically
-
----
-
-## 💡 Conclusion
+### 💡 Conclusion
 
 The current discount strategy reduces revenue efficiency and does not generate proportional value.
 
@@ -114,17 +64,11 @@ A more targeted approach is required:
 * Focus on low discount levels (5–10%)
 * Apply discounts selectively rather than across the entire portfolio
 * Use discounts strategically for **seasonal high-volume periods** (e.g., Black Friday)  
-* Apply discounts for **stock clearance**, rather than on best-selling products  
+* Apply discounts for **stock clearance**, rather than on best-selling products
 
----
-
-## 📎 Presentation
-
-👉 https://prezi.com/view/vvTvKs9qmEhNW8DYYX1e/?referral_token=Ki3dK4lnB3FN
-
----
-
-## ⚠️ Data Quality & Future Improvements
+ ---
+ 
+ ### ⚠️ Data Quality & Future Improvements
 
 * Incorporate profit / margin data for deeper insights
 * Improve data consistency and tracking of discount application
@@ -133,9 +77,46 @@ A more targeted approach is required:
 
 ---
 
-## 👩‍💻 About Me
+## 📁 Project Structure
 
-Aspiring Data Scientist with a strong background in sales and process optimization.
-Focused on translating data into actionable business insights and improving decision-making through data-driven approaches.
+```text
+discount-strategy-analysis/
+├── images/          # visualizations used in the project
+├── notebooks/       # analysis notebooks
+├── data/            # dataset or sample data
+├── README.md        # project documentation
+├── requirements.txt # dependencies
+```
 
 ---
+
+## 🛠️ Tools & Technologies
+
+* Python
+* Pandas
+* Matplotlib
+* Seaborn
+* Jupyter Notebook / Google Colab
+
+---
+
+
+📊 Project Contribution
+
+This project was developed as a collaborative team effort, combining different analytical perspectives to evaluate business performance.
+
+My primary contribution focused on the visualizations and analyses presented in this section, including:
+
+* Exploration of discount distribution
+* Analysis of revenue impact across discount levels
+* Identification of patterns between pricing and performance
+* Development of data visualizations to support business insights
+
+---
+
+
+## 📎 Presentation
+
+👉 https://prezi.com/view/vvTvKs9qmEhNW8DYYX1e/?referral_token=Ki3dK4lnB3FN
+
+
