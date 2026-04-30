@@ -92,8 +92,11 @@ discount-strategy-analysis/
 
 ## 📗 Notebooks
 
-*[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1mh0ge5iwumaA_BpDdo9OcEskO26PzQdw)
-**[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1SVtSF9SM7h2zd_JmA5qMnz6I92HH7wYC)
+[![Open Discount Analysis in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1mh0ge5iwumaA_BpDdo9OcEskO26PzQdw)
+
+[![Open A/B Test Analysis in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1SVtSF9SM7h2zd_JmA5qMnz6I92HH7wYC)
+
+---
 
 ## 🛠️ Tools & Technologies
 
