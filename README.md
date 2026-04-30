@@ -124,6 +124,6 @@ My primary contribution focused on the visualizations and analyses presented in 
 
 ## 📎 Presentation
 
-👉 https://prezi.com/view/vvTvKs9qmEhNW8DYYX1e/?referral_token=Ki3dK4lnB3FN
+👉 [View Presentation](https://prezi.com/p/ccf8m9zcmeiq/?present=1)
 
 
