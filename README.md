@@ -81,9 +81,9 @@ A more targeted approach is required:
 
 ```text
 discount-strategy-analysis/
+├── data/            # dataset or sample data
 ├── images/          # visualizations used in the project
 ├── notebooks/       # analysis notebooks
-├── data/            # dataset or sample data
 ├── README.md        # project documentation
 ├── requirements.txt # dependencies
 ```
